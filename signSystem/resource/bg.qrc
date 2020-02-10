@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bg.qrc</file>
+        <file>ps图片1IMG_20190915_112904.jpg</file>
+        <file>ps图片1null6f458f18498015cc.jpg</file>
+        <file>图片1558917959422.jpeg</file>
+        <file>图片img-05118e5bd17401b305c0b890f23077c4.jpg</file>
+        <file>图片null-3ce5eb0d59968b2c.jpg</file>
+    </qresource>
+</RCC>
